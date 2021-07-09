@@ -10,7 +10,7 @@ And check out the repo [here](https://github.com/Danielk0703/Game-AI-School-2021
 This AI was trained with Deep Reinforcement Learning, using the Unity ML-Agents toolkit!
 For more information check the Unity’s [ML-Agent](https://github.com/Unity-Technologies/ml-agents) website.
 
-###Ship controls
+### Ship controls
 - W - Accelerate
 - S - Decelerate
 - A - Steer left
@@ -18,7 +18,7 @@ For more information check the Unity’s [ML-Agent](https://github.com/Unity-Tec
 - Arrow left - Shoot left
 - Arrow right - Shoot right
 
-###Team members and their tasks
+### Team members and their tasks
 - **Danielk0703**
     - Project leader / coordination / Git management
   - Basic UI setup and preparations
