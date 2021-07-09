@@ -5,9 +5,11 @@ Ahoy young pirate 🏴‍☠🦜! Will you be able to beat our pAIrate?
 This game was made during **International Summer School on AI and Games 3rd Edition** (05. - 09.07.2021).
 
 You can download the built version [here](https://danielk0703.itch.io/ship-jam).
+
 And check out the repo [here](https://github.com/Danielk0703/Game-AI-School-2021-AI-Game-Jam).
 
 This AI was trained with Deep Reinforcement Learning, using the Unity ML-Agents toolkit!
+
 For more information check the Unity’s [ML-Agent](https://github.com/Unity-Technologies/ml-agents) website.
 
 ### Ship controls
